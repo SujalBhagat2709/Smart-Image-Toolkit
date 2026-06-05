@@ -1,4 +1,4 @@
-# Smart Image Toolkit 
+# Smart Image Toolkit
 
 ## Overview
 
