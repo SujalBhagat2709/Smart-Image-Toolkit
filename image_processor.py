@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image 
 
 def grayscale_image(image_path):
 
